@@ -1,4 +1,3 @@
-![LUNA logo](luna_logo.png)
 # LUNA-XAI 
 ***Local Understanding through Neighborhood Analysis for Explainable AI***
 
@@ -18,7 +17,7 @@ LUNA is designed to be:
 
 ---
 
-## ✨ Main Features
+## Main Features
 
 - **Hybrid preprocessing for neighbors**
   - `HybridPreprocessor` with:

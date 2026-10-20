@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "luna"
+name = "luna-xai"
 version = "0.1.0"
 description = "🌙 LUNA — Local Understanding through Neighborhood Analysis"
 maintainers = [
@@ -41,7 +41,7 @@ classifiers = [
 packages = [{ include = "luna_xai", from = "src" }]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.13"
+python = ">=3.11,<3.13"
 
 # Core stack
 numpy = ">=2.0,<3.0"

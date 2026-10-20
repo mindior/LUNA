@@ -1,5 +1,5 @@
 ![LUNA logo](luna_logo.png)
-# LUNA 
+# LUNA-XAI 
 ***Local Understanding through Neighborhood Analysis for Explainable AI***
 
 LUNA is a Python library for **model-agnostic explainability** on **tabular** machine learning models.  
@@ -72,7 +72,7 @@ LUNA is designed to be:
 
 ## 📦 Installation
 
-> **Prerequisites:** Python `>=3.9, <3.13` and a C++ toolchain (for `hnswlib`).
+> **Prerequisites:** Python `>=3.11, <3.13` and a C++ toolchain (for `hnswlib`).
 
 ### Windows Installation Notes
 
@@ -89,7 +89,7 @@ Install the [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visua
 After installation, restart your terminal and retry:
 
 ```bash
-pip install luna
+pip install luna-xai
 ```
 
 This requirement comes from the `hnswlib` dependency and does not require any changes to the LUNA source code.

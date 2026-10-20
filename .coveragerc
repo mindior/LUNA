@@ -1,0 +1,28 @@
+[run]
+branch = True
+source =
+    luna_xai
+omit =
+    luna_xai/__main__.py
+    luna_xai/_version.py
+    luna_xai/*/__init__.py
+    tests/*
+    setup.py
+
+[report]
+show_missing = True
+skip_covered = True
+precision = 2
+exclude_lines =
+    pragma: no cover
+    def __repr__
+    def __str__
+    def _debug
+    if self\._debug_enabled
+    if __name__ == .__main__.:
+
+[html]
+directory = reports/coverage_html
+
+[xml]
+output = reports/coverage.xml

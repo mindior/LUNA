@@ -1,0 +1,25 @@
+# Compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Test & coverage outputs
+reports/
+.coverage
+htmlcov/
+*.log
+
+# Build / dist artifacts
+build/
+dist/
+*.egg-info/

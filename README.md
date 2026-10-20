@@ -70,6 +70,12 @@ LUNA is designed to be:
 
 ---
 
+## Documentation
+
+Complete documentation, tutorials, and examples are available at:
+
+[LUNA XAI Documentation](https://mindior.github.io/LUNA/)
+
 ## 📦 Installation
 
 > **Prerequisites:** Python `>=3.11, <3.13` and a C++ toolchain (for `hnswlib`).

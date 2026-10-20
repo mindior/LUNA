@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "luna-xai"
-version = "0.1.0"
+version = "0.1.1"
 description = "🌙 LUNA — Local Understanding through Neighborhood Analysis"
 maintainers = [
     "Marcelo I. Reis <mindior@gmail.com>"
@@ -15,7 +15,7 @@ license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/mindior/LUNA"
 repository = "https://github.com/mindior/LUNA"
-documentation = "https://mindior.github.io/luna-xai/"
+documentation = "https://mindior.github.io/LUNA/"
 keywords = [
     "explainable ai",
     "xai",

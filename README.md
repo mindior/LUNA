@@ -58,15 +58,15 @@ LUNA is designed to be:
   - `PlotRenderer` + `MatplotlibPngExporter`:
     - Local feature importances (horizontal bars).
     
-    ![LUNA Feature Importance](images/fi.png)
+    ![LUNA Feature Importance](https://github.com/mindior/LUNA/blob/main/images/fi.png))
 
     - ICE-like line plots (feature trends).
 
-    ![LUNA ICE-style Plot](images/sa.png)
+    ![LUNA ICE-style Plot](https://github.com/mindior/LUNA/blob/main/images/sa.png)
 
     - Per-feature vec boxplots for sensitivity distributions.
 
-    ![LUNA VEC Boxplot](images/vec.png)
+    ![LUNA VEC Boxplot](https://github.com/mindior/LUNA/blob/main/images/vec.png)
 
   - Low-level plotting helpers in `luna_xai.utils.plotting`.
 

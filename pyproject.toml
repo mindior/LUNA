@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "luna-xai"
-version = "0.1.2"
+version = "0.1.3"
 description = "🌙 LUNA — Local Understanding through Neighborhood Analysis"
 maintainers = [
     "Marcelo I. Reis <mindior@gmail.com>"

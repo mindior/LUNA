@@ -86,8 +86,9 @@ Complete documentation is available at:
 
 Complete tutorials, and examples are available at:
 
-[LUNA XAI Classification Demo](src/luna_xai/demos/demo_classification.ipynb)
-[LUNA XAI Regression Demo](src/luna_xai/demos/demo_regression.ipynb)
+[LUNA XAI Classification Demo](https://github.com/mindior/LUNA/blob/main/src/luna_xai/demos/demo_classification.ipynb)
+
+[LUNA XAI Regression Demo](https://github.com/mindior/LUNA/blob/main/src/luna_xai/demos/demo_regression.ipynb)
 
 ## 📦 Installation
 

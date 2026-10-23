@@ -57,8 +57,17 @@ LUNA is designed to be:
 - **Plotting & rendering**
   - `PlotRenderer` + `MatplotlibPngExporter`:
     - Local feature importances (horizontal bars).
+    
+    ![LUNA Feature Importance](images/fi.png)
+
     - ICE-like line plots (feature trends).
-    - Per-feature boxplots for sensitivity distributions.
+
+    ![LUNA ICE-style Plot](images/sa.png)
+
+    - Per-feature vec boxplots for sensitivity distributions.
+
+    ![LUNA VEC Boxplot](images/vec.png)
+
   - Low-level plotting helpers in `luna_xai.utils.plotting`.
 
 - **Logging utilities**
@@ -71,9 +80,14 @@ LUNA is designed to be:
 
 ## Documentation
 
-Complete documentation, tutorials, and examples are available at:
+Complete documentation is available at:
 
 [LUNA XAI Documentation](https://mindior.github.io/LUNA/)
+
+Complete tutorials, and examples are available at:
+
+[LUNA XAI Classification Demo](src/luna_xai/demos/demo_classification.ipynb)
+[LUNA XAI Regression Demo](src/luna_xai/demos/demo_regression.ipynb)
 
 ## 📦 Installation
 
